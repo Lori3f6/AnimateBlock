@@ -1,0 +1,8 @@
+name: animatedBlock
+main: blue.melon.minecraft.animatedblock.Loader
+version: ${project.version}
+api-version: 1.16
+commands:
+  projector:
+    permission: "animatedblock.projector"
+    usage: "好长不想写，看到这条消息就检查一下输入吧("
